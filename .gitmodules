@@ -1,0 +1,3 @@
+[submodule ".claude/skills/library"]
+	path = .claude/skills/library
+	url = git@github.com:Sarasin-and-Partners/skill-library.git
